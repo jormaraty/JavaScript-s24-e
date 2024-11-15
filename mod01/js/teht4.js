@@ -17,7 +17,7 @@ if (tuvanNro == 1) {
 } else {
     tuvanNimi = "um, I don't know.."
 }
-// tuvanNimi-muuttujan tyypiksi muuttui edellä string
+// edellä tuvanNimi-muuttujan tyypiksi tuli string
 // TODO: korjaa edellä oleva if- else if - else rakenne
 
 // TODO: tuvan nimi pitäisi myös tulostaa...
